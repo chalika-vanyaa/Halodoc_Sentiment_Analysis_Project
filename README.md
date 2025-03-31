@@ -1,1 +1,2 @@
-# Halodoc_Sentiment_Analysis_Project
+# IDCamp x Dicoding - Belajar Pengembangan Machine Learning (Intermediate Level) - 1st Project
+Conducted a **sentiment analysis project** by scraping review data from **Halodoc** and testing multiple classification models, including **Logistic Regression**, **Random Forest**, **Naïve Bayes**, **KNN**, **SVM**, and **Recurrent Neural Network** (RNN). This project was developed for educational purposes only.
